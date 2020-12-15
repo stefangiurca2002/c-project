@@ -1,0 +1,10 @@
+C:\Users\stefa\source\repos\project with menu\project with menu\bin\Debug\project with menu.exe.config
+C:\Users\stefa\source\repos\project with menu\project with menu\bin\Debug\project with menu.exe
+C:\Users\stefa\source\repos\project with menu\project with menu\bin\Debug\project with menu.pdb
+C:\Users\stefa\source\repos\project with menu\project with menu\obj\Debug\project with menu.csprojAssemblyReference.cache
+C:\Users\stefa\source\repos\project with menu\project with menu\obj\Debug\project_with_menu.Form1.resources
+C:\Users\stefa\source\repos\project with menu\project with menu\obj\Debug\project_with_menu.Properties.Resources.resources
+C:\Users\stefa\source\repos\project with menu\project with menu\obj\Debug\project with menu.csproj.GenerateResource.cache
+C:\Users\stefa\source\repos\project with menu\project with menu\obj\Debug\project with menu.csproj.CoreCompileInputs.cache
+C:\Users\stefa\source\repos\project with menu\project with menu\obj\Debug\project with menu.exe
+C:\Users\stefa\source\repos\project with menu\project with menu\obj\Debug\project with menu.pdb
